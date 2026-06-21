@@ -1,0 +1,7 @@
+streamlit
+openai-agents
+yfinance
+scipy
+numpy
+python-dotenv
+anthropic
